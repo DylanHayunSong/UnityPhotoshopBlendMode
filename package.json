@@ -1,6 +1,6 @@
 {
   "name": "com.kimsongd.unity-photoshop-blendmode",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "displayName": "Unity Photoshop BlendMode",
   "description": "Photoshop blend mode shaders\nOnly support UI yet",
   "samples": [
