@@ -2,9 +2,7 @@
 
 Unity does not have the same functionality as Photoshop's BlendMode.  
 I implemented it with Shader and a simple script because needed that function.  
-Only available in UI yet.
-
-<br><br>
+Only available in UI yet.  
 
 ## Result
 | Unity | Photoshop |
