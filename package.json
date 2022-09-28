@@ -1,0 +1,18 @@
+{
+  "name": "com.kimsongd.unity-photoshop-blendmode",
+  "version": "0.1.0",
+  "displayName": "Unity Photoshop BlendMode",
+  "description": "Photoshop blend mode shaders\nOnly support UI yet",
+  "samples": [
+    {
+        "displayName": "Photoshop BlendMode Samples",
+        "description": "Photoshop BlendMode Example",
+        "path": "Samples~"
+    }
+  ],
+  "author": {
+    "name": "KimSongD",
+    "email": "dylanhayunsong@gmail.com",
+    "url": "https://github.com/DylanHayunSong"
+  }  
+}

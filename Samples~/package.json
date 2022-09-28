@@ -1,0 +1,9 @@
+{
+    "samples": [
+        {
+            "displayName" : "sample",
+            "description" : "Contains sample scene, images",
+            "path" : "Samples~"
+        }
+    ]
+}
